@@ -11,7 +11,7 @@ $ pkg install wget
 
 $ pkg install openssh
 
-$ git clone https://github.com/Hackeralok119/WishFish
+$ git clone https://github.com/Hackeralok119/Camerascan.git
 
 <h3>Usage</h3>
 
