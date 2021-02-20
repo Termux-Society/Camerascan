@@ -32,7 +32,7 @@ $ git clone https://github.com/Hackeralok119/Camerascan.git
 
 <h3>Usage</h3>
 
-$ cd wishFish
+$ cd Camerascan
 
 Now turn your device hotspot
 
