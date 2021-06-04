@@ -15,8 +15,8 @@ echo -e "\033[31m   \ \/  \/ / | / __| '_  |\e[0m|  __| | / __| '_ \      ";
 echo -e "\033[31m    \  /\  /  | \__ \ | | |\e[0m| |    | \__ \ | | |     ";
 echo -e "\033[31m     \/  \/   |_|___/_| |_|\e[0m|_|    |_|___/_| |_| v2.0";
 
-printf "\e[1;77m Website :- www.hackingcourses.tk \e[0m \n"
-printf "\e[1;77m v2.0 Coded By github.com/Hackeralok119 \e[0m \n"
+printf "\e[1;77m Website :- https://youtube.com/channel/UCtTIPQUmBW6PRXY0Jg5dLKQ \e[0m \n"
+printf "\e[1;77m v2.0 Coded By github.com/Termux-Society \e[0m \n"
 
 }
 
